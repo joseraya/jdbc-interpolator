@@ -1,1 +1,1 @@
-This is a very simple JDBC
+This is a very simple JDBC interpolator
